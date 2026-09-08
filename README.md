@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm monasco 👋</h1>
-<p align="center">15 y.o. · Munich, Germany</p>
+<p align="center">Munich, Germany</p>
 
 <br>
 
