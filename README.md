@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm monasco 👋</h1>
-<p align="center">Munich, Germany</p>
 
 <br>
 
@@ -11,6 +10,15 @@
 <p align="center"><b>🧭 in future</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker&theme=dark" />
+</p>
+
+<br>
+
+<p align="center"><b>🤝 contributions</b></p>
+<p align="center">
+  <a href="https://github.com/btcpayserver/btcpayserver/pull/7572">BTCPay Server</a> · fixed verification-email errors for deleted users<br>
+  <a href="https://github.com/btcpayserver/btcpayserver/pull/7563">BTCPay Server</a> · fixed error handling for unknown LNURL withdrawal links<br>
+  <a href="https://github.com/aio-libs/aiohttp/pull/13659">aiohttp</a> · clarified redirect limits in the documentation
 </p>
 
 <br>
