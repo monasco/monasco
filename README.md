@@ -13,12 +13,11 @@
 </p>
 
 <br>
-
 <p align="center"><b>🤝 contributions</b></p>
 <p align="center">
-  <a href="https://github.com/btcpayserver/btcpayserver/pull/7572">BTCPay Server</a> · fixed verification-email errors for deleted users<br>
-  <a href="https://github.com/btcpayserver/btcpayserver/pull/7563">BTCPay Server</a> · fixed error handling for unknown LNURL withdrawal links<br>
-  <a href="https://github.com/aio-libs/aiohttp/pull/13659">aiohttp</a> · clarified redirect limits in the documentation
+  <a href="https://github.com/btcpayserver/btcpayserver/pull/7572">BTCPay Server</a> · fixed a 500 when sending verification emails to deleted users<br>
+  <a href="https://github.com/btcpayserver/btcpayserver/pull/7563">BTCPay Server</a> · fixed a 500 on unknown LNURL withdrawal links<br>
+  <a href="https://github.com/aio-libs/aiohttp/pull/13659">aiohttp</a> · documented redirect limits
 </p>
 
 <br>
