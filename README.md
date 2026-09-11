@@ -15,6 +15,7 @@
 <br>
 <p align="center"><b>🤝 contributions</b></p>
 <p align="center">
+  <a href="https://github.com/lnbits/lnbits/pull/4148">LNbits</a> · fixed duplicate notifications for internal payments<br>
   <a href="https://github.com/btcpayserver/btcpayserver/pull/7572">BTCPay Server</a> · fixed a 500 when sending verification emails to deleted users<br>
   <a href="https://github.com/btcpayserver/btcpayserver/pull/7563">BTCPay Server</a> · fixed a 500 on unknown LNURL withdrawal links<br>
   <a href="https://github.com/aio-libs/aiohttp/pull/13659">aiohttp</a> · documented redirect limits
