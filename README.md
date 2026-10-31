@@ -28,6 +28,6 @@
 
 <br>
 <p align="center">
-  <a href="mailto:monasco@tuta.com">monasco@tuta.com</a>
+  <a href="mailto:lewk@tuta.com">lewk@tuta.com</a>
 </p>
 <p align="center">🇷🇺 native · 🇩🇪 fluent · 🇬🇧 working on it</p>
