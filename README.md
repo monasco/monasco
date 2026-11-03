@@ -30,4 +30,4 @@
 <p align="center">
   <a href="mailto:lewk@tuta.com">lewk@tuta.com</a>
 </p>
-<p align="center">🇷🇺 native · 🇩🇪 fluent · 🇬🇧 working on it</p>
+<p align="center">🇷🇺 native · 🇩🇪 fluent · 🇬🇧 fluent</p>
